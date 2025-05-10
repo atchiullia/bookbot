@@ -43,7 +43,7 @@ bookbot/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/bookbot.git
+git clone https://github.com/atchiullia/bookbot.git
 cd bookbot
 ```
 
